@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/poet/static/css/main.663b5c5c.chunk.css",
-    "main.js": "/poet/static/js/main.05eb105d.chunk.js",
-    "main.js.map": "/poet/static/js/main.05eb105d.chunk.js.map",
-    "runtime-main.js": "/poet/static/js/runtime-main.f70b9634.js",
-    "runtime-main.js.map": "/poet/static/js/runtime-main.f70b9634.js.map",
-    "static/js/2.94447f5f.chunk.js": "/poet/static/js/2.94447f5f.chunk.js",
-    "static/js/2.94447f5f.chunk.js.map": "/poet/static/js/2.94447f5f.chunk.js.map",
-    "index.html": "/poet/index.html",
-    "static/css/main.663b5c5c.chunk.css.map": "/poet/static/css/main.663b5c5c.chunk.css.map",
-    "static/js/2.94447f5f.chunk.js.LICENSE.txt": "/poet/static/js/2.94447f5f.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/poet/static/media/cyber_wallpaper.0a158a93.jpeg"
+    "main.css": "/hacker/static/css/main.9187a00f.chunk.css",
+    "main.js": "/hacker/static/js/main.8e46dc9c.chunk.js",
+    "main.js.map": "/hacker/static/js/main.8e46dc9c.chunk.js.map",
+    "runtime-main.js": "/hacker/static/js/runtime-main.58c2f2b8.js",
+    "runtime-main.js.map": "/hacker/static/js/runtime-main.58c2f2b8.js.map",
+    "static/js/2.fb2226d8.chunk.js": "/hacker/static/js/2.fb2226d8.chunk.js",
+    "static/js/2.fb2226d8.chunk.js.map": "/hacker/static/js/2.fb2226d8.chunk.js.map",
+    "index.html": "/hacker/index.html",
+    "static/css/main.9187a00f.chunk.css.map": "/hacker/static/css/main.9187a00f.chunk.css.map",
+    "static/js/2.fb2226d8.chunk.js.LICENSE.txt": "/hacker/static/js/2.fb2226d8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/hacker/static/media/cyber_wallpaper.0a158a93.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f70b9634.js",
-    "static/js/2.94447f5f.chunk.js",
-    "static/css/main.663b5c5c.chunk.css",
-    "static/js/main.05eb105d.chunk.js"
+    "static/js/runtime-main.58c2f2b8.js",
+    "static/js/2.fb2226d8.chunk.js",
+    "static/css/main.9187a00f.chunk.css",
+    "static/js/main.8e46dc9c.chunk.js"
   ]
 }
