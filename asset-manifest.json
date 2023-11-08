@@ -1,21 +1,13 @@
 {
   "files": {
-    "main.css": "/hacker/static/css/main.9187a00f.chunk.css",
-    "main.js": "/hacker/static/js/main.8e46dc9c.chunk.js",
-    "main.js.map": "/hacker/static/js/main.8e46dc9c.chunk.js.map",
-    "runtime-main.js": "/hacker/static/js/runtime-main.58c2f2b8.js",
-    "runtime-main.js.map": "/hacker/static/js/runtime-main.58c2f2b8.js.map",
-    "static/js/2.fb2226d8.chunk.js": "/hacker/static/js/2.fb2226d8.chunk.js",
-    "static/js/2.fb2226d8.chunk.js.map": "/hacker/static/js/2.fb2226d8.chunk.js.map",
+    "main.css": "/hacker/static/css/main.3fbe293b.css",
+    "main.js": "/hacker/static/js/main.0875394c.js",
     "index.html": "/hacker/index.html",
-    "static/css/main.9187a00f.chunk.css.map": "/hacker/static/css/main.9187a00f.chunk.css.map",
-    "static/js/2.fb2226d8.chunk.js.LICENSE.txt": "/hacker/static/js/2.fb2226d8.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/hacker/static/media/cyber_wallpaper.0a158a93.jpeg"
+    "main.3fbe293b.css.map": "/hacker/static/css/main.3fbe293b.css.map",
+    "main.0875394c.js.map": "/hacker/static/js/main.0875394c.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.58c2f2b8.js",
-    "static/js/2.fb2226d8.chunk.js",
-    "static/css/main.9187a00f.chunk.css",
-    "static/js/main.8e46dc9c.chunk.js"
+    "static/css/main.3fbe293b.css",
+    "static/js/main.0875394c.js"
   ]
 }
