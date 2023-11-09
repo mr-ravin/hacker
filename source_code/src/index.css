@@ -1,0 +1,21 @@
+.middle {
+  position: absolute;
+  top: 15%;
+  left: 20%;
+  right: 21%;
+  color: black;
+}
+
+.colorset{
+color: black ;
+}
+.algn{
+position:fixed;
+right:0;
+float:right;
+}
+
+.p{
+text-align: justify;
+text-justify: inter-word;
+}
