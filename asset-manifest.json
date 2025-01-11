@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/hacker/static/css/main.3fbe293b.css",
-    "main.js": "/hacker/static/js/main.f611b542.js",
+    "main.css": "/hacker/static/css/main.a571c5a8.css",
+    "main.js": "/hacker/static/js/main.160d0199.js",
+    "static/js/488.4bae8af9.chunk.js": "/hacker/static/js/488.4bae8af9.chunk.js",
     "index.html": "/hacker/index.html",
-    "main.3fbe293b.css.map": "/hacker/static/css/main.3fbe293b.css.map",
-    "main.f611b542.js.map": "/hacker/static/js/main.f611b542.js.map"
+    "main.a571c5a8.css.map": "/hacker/static/css/main.a571c5a8.css.map",
+    "main.160d0199.js.map": "/hacker/static/js/main.160d0199.js.map",
+    "488.4bae8af9.chunk.js.map": "/hacker/static/js/488.4bae8af9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fbe293b.css",
-    "static/js/main.f611b542.js"
+    "static/css/main.a571c5a8.css",
+    "static/js/main.160d0199.js"
   ]
 }
