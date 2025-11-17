@@ -21,8 +21,6 @@
       Diary number: 6429/2020-CO/SW
      <p align="justify">
      Cryptbits is a Java-based cryptographic file-encryption program developed as part of academic cybersecurity research. It uses AES-128 in CBC mode with PBKDF2-based key derivation to encrypt files recursively and includes a corresponding recovery mechanism to restore encrypted data. The program was created and evaluated strictly in a controlled environment and is registered with the Copyright Office of India.
-
-
      </p>
      <p>
      <u>Resources</u>:
