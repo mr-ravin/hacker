@@ -1,4 +1,4 @@
-### Ethical Hacker's Life
+### Hacker's Life
 ---
 
 <ol>
@@ -6,7 +6,7 @@
      <h4><a href="https://copyright.gov.in/SearchRoc.aspx">Crypto Ransomware- Computer Virus (Ransomware) And Its Antivirus.</a></h4>
      Diary number: 3512/2016-CO/SW
      <p align="justify">
-     This Java-based cryptographic file-encryption program and its corresponding recovery/antivirus component were developed as part of early academic research in cybersecurity. The project explored file-locking behavior, directory-level processing, and defensive restoration techniques in controlled test environments. The software was created solely for research and learning purposes and is registered with the Copyright Office of India.
+     This is a computer Ransomware, copyrighted in the Copyright Office, Govt. of India. This ransomware is undetectable by any Anti-virus Software including but not limited to - Avast, Norton, Guardian, Quick Heal, Kasper Sky, Windows Defender. This Ransomware works perfectly fine in Windows and Linux Based Operating System. Features- This ransomware affects both data present in soft-format, plus permanently damages the hardware.
      </p>
      <p>
      <u>Resources</u>:
@@ -20,7 +20,7 @@
      <h4><a href="https://copyright.gov.in/SearchRoc.aspx">Cryptbits: Computer Ransomware and its reversal code.</a></h4>
       Diary number: 6429/2020-CO/SW
      <p align="justify">
-     Cryptbits is a Java-based cryptographic file-encryption program developed as part of academic cybersecurity research. It uses AES-128 in CBC mode with PBKDF2-based key derivation to encrypt files recursively and includes a corresponding recovery mechanism to restore encrypted data. The program was created and evaluated strictly in a controlled environment and is registered with the Copyright Office of India.
+     This is a computer Ransomware, copyrighted in the Copyright Office, Govt. of India. This ransomware is undetectable by any Anti-virus Software including but not limited to - Avast, Norton, Guardian, Quick Heal, Kasper Sky, Windows Defender. This ransomware written in Java SE works perfectly fine in Windows and Linux Based Operating System.
      </p>
      <p>
      <u>Resources</u>:
